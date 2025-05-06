@@ -1,0 +1,1 @@
+@reboot sleep 30 && /usr/bin/python3 /home/pi/OKY4020/stats.py >>/home/pi/OKY4020/stats.log 2>&1
